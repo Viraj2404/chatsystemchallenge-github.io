@@ -1,0 +1,77 @@
+body{
+   background-color: lightcyan;
+   margin: 0%;
+   padding-top: 30px;
+} 
+
+h1{
+    font-family: sans-serif;
+    color: blueviolet;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: cornflowerblue;
+}
+
+.mpif{
+    position: absolute;
+    left: 570px;
+    margin-left: 40px;
+    padding-top: 100px;
+    }
+
+    .img{
+        height: 36px;
+        width: 36px;
+        float: left;
+    }
+
+.scrss{
+    position: absolute;
+    left: 50px;
+    bottom: 50px;
+    border: solid black 10px;
+    font-family: sans-serif;
+    background-color: lightgoldenrodyellow;
+    width: 350px;
+    height: 600px;
+    line-height: 2;
+}
+
+.dogs{
+    position:relative;
+    float: right;
+    height: 41px;
+    width: 41px;
+    line-height: 4;
+}
+.top-ss{
+    background-color: hsl(264, 100%, 61%);
+    line-height: normal;
+    margin: 10px auto 1px auto;
+}
+
+.type{
+    background-color: blanchedalmond;
+}
+
+.hdr{
+    color: black;
+    margin:auto 5px auto 25px;
+}
+
+.left{
+    line-height: 2;
+    text-align: left;
+}
+
+.right{
+    text-align: right;
+}
+.msg{
+    color: black;
+    font-size: 15px;
+}
+
+
